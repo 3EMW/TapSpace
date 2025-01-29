@@ -1,0 +1,1 @@
+2023.05.03 19:01:02.728 1035 4473 Error ANDR-PERF-MPCTL poll() has timed out for /sys/module/msm_performance/events/cpu_hotplug
